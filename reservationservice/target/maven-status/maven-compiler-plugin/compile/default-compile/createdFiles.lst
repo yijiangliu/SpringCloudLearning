@@ -1,0 +1,5 @@
+com/example/reservationservice/Reservation.class
+com/example/reservationservice/SampleDataInitializer.class
+com/example/reservationservice/MongoConfig.class
+com/example/reservationservice/ReservationServiceApplication.class
+com/example/reservationservice/ReservationRepository.class
